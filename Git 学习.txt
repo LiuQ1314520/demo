@@ -2,3 +2,5 @@
  git init
 2. Git 查看状态
  git status
+3. Git 添加到缓存区
+ git add
