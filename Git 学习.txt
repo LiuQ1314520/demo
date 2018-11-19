@@ -1,0 +1,4 @@
+1. Git 初始化
+ git init
+2. Git 查看状态
+ git status
