@@ -4,3 +4,5 @@
  git status
 3. Git 添加到缓存区
  git add
+4. Git 查看提交历史
+ git log
